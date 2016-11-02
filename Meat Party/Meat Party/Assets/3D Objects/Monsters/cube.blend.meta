@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: d33cb06cfce126644b8d8b02b9f92c18
+timeCreated: 1478121933
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base_Arriere_Droit
+    100002: Base_Arriere_Gauche
+    100004: Base_Avant_Droit
+    100006: Base_Avant_Gauche
+    100008: Base_Corps
+    100010: Bone
+    100012: Bone_001
+    100014: Bone_002
+    100016: Bone_003
+    100018: Bone_004
+    100020: Bone_005
+    100022: Bone_006
+    100024: Bone_007
+    100026: Bouche
+    100028: Corps
+    100030: //RootNode
+    100032: Haut_Arriere_Droit
+    100034: Haut_Arriere_Gauche
+    100036: Haut_Avant_Droit
+    100038: Haut_Avant_Gauche
+    100040: Haut_Corps
+    100042: Oeil_Droit
+    100044: Oeil_Gauche
+    100046: Plane
+    100048: Pupille_Droite
+    100050: Pupille_Gauche
+    100052: Squelette_Bouche
+    100054: Squelette_Slime
+    400000: Base_Arriere_Droit
+    400002: Base_Arriere_Gauche
+    400004: Base_Avant_Droit
+    400006: Base_Avant_Gauche
+    400008: Base_Corps
+    400010: Bone
+    400012: Bone_001
+    400014: Bone_002
+    400016: Bone_003
+    400018: Bone_004
+    400020: Bone_005
+    400022: Bone_006
+    400024: Bone_007
+    400026: Bouche
+    400028: Corps
+    400030: //RootNode
+    400032: Haut_Arriere_Droit
+    400034: Haut_Arriere_Gauche
+    400036: Haut_Avant_Droit
+    400038: Haut_Avant_Gauche
+    400040: Haut_Corps
+    400042: Oeil_Droit
+    400044: Oeil_Gauche
+    400046: Plane
+    400048: Pupille_Droite
+    400050: Pupille_Gauche
+    400052: Squelette_Bouche
+    400054: Squelette_Slime
+    2300000: Oeil_Droit
+    2300002: Oeil_Gauche
+    2300004: Plane
+    2300006: Pupille_Droite
+    2300008: Pupille_Gauche
+    3300000: Oeil_Droit
+    3300002: Oeil_Gauche
+    3300004: Plane
+    3300006: Pupille_Droite
+    3300008: Pupille_Gauche
+    4300000: Plane
+    4300002: Bouche
+    4300004: Oeil_Gauche
+    4300006: Pupille_Droite
+    4300008: Pupille_Gauche
+    4300010: Oeil_Droit
+    4300012: Corps
+    7400000: Default Take
+    7400002: Idle1
+    9500000: //RootNode
+    13700000: Bouche
+    13700002: Corps
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
