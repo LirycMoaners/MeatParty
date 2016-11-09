@@ -33,6 +33,10 @@ ModelImporter:
     100050: Pupille_Gauche
     100052: Squelette_Bouche
     100054: Squelette_Slime
+    100056: Corps_MeshPart0
+    100058: Corps_MeshPart1
+    100060: Corps_MeshPart2
+    100062: Corps_MeshPart3
     400000: Base_Arriere_Droit
     400002: Base_Arriere_Gauche
     400004: Base_Avant_Droit
@@ -61,6 +65,10 @@ ModelImporter:
     400050: Pupille_Gauche
     400052: Squelette_Bouche
     400054: Squelette_Slime
+    400056: Corps_MeshPart0
+    400058: Corps_MeshPart1
+    400060: Corps_MeshPart2
+    400062: Corps_MeshPart3
     2300000: Oeil_Droit
     2300002: Oeil_Gauche
     2300004: Plane
@@ -78,11 +86,19 @@ ModelImporter:
     4300008: Pupille_Gauche
     4300010: Oeil_Droit
     4300012: Corps
+    4300014: Corps_MeshPart0
+    4300016: Corps_MeshPart1
+    4300018: Corps_MeshPart2
+    4300020: Corps_MeshPart3
     7400000: Default Take
     7400002: Idle1
     9500000: //RootNode
     13700000: Bouche
     13700002: Corps
+    13700004: Corps_MeshPart0
+    13700006: Corps_MeshPart1
+    13700008: Corps_MeshPart2
+    13700010: Corps_MeshPart3
   materials:
     importMaterials: 1
     materialName: 0
